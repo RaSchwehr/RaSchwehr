@@ -1,16 +1,45 @@
-## Hi there 👋
+# Ralph Schwehr
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![GCP](https://img.shields.io/badge/Cloud-GCP-orange)
+![AI](https://img.shields.io/badge/AI-LLM_Systems-green)
 
-<!--
-**RaSchwehr/RaSchwehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CEO & Chief AI Officer
+Building AI Systems, LLM and scalable SaaS infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+- AI Readiness & strategic transformation systems
+- Multi-tenant SaaS architecture
+- Python backend engineering (FastAPI)
+- Streamlit interfaces for decision workflows
+- LLM integration & structured evaluation
+- Cloud infrastructure (GCP / Cloud Run / Cloud SQL)
+- CI/CD and branch-based deployment discipline
+
+---
+
+## Current focus
+
+- Multi-tenancy without breaking production
+- Safe database migration patterns
+- Staging vs. production governance
+- Reliability, observability, and cost control
+
+---
+
+## Stack
+
+**Backend:** Python, FastAPI, PostgreSQL  
+**Frontend:** Streamlit  
+**Infra:** Docker, GitHub Actions, GCP Cloud Run, Cloud SQL  
+**AI:** LLM systems, prompt architecture, evaluation pipelines
+
+---
+
+## Philosophy
+
+Software is leverage.  
+Architecture determines scalability.  
+Discipline determines stability.
