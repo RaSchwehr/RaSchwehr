@@ -17,7 +17,7 @@
 ![R](https://img.shields.io/badge/R-Analytics-276DC3?logo=r&logoColor=white)
 
 > **Model-agnostic:** I choose models via evals (latency, cost, accuracy, safety) and keep prompts portable.
-> ![GPT](https://img.shields.io/badge/Cloud-GPT--4o%20%2F%204.1-000000)
+![GPT](https://img.shields.io/badge/Cloud-GPT--4o%20%2F%204.1-000000)
 ![Claude](https://img.shields.io/badge/Cloud-Claude%203.5-000000)
 ![Gemini](https://img.shields.io/badge/Cloud-Gemini%201.5-000000)
 ![Llama](https://img.shields.io/badge/Local-Llama%203.x-000000)
