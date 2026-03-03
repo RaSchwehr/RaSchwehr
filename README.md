@@ -3,25 +3,26 @@
 
 ### Build AI that ships 🚀
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/Git%2FGitHub-Delivery-181717?logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Cloud_Run%20%7C%20Cloud_SQL-4285F4?logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?logo=fastapi&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)&nbsp;
+![Git%2FGitHub](https://img.shields.io/badge/Git%2FGitHub-Delivery-181717?logo=github&logoColor=white)&nbsp;
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/GCP-Cloud_Run%20%7C%20Cloud_SQL-4285F4?logo=googlecloud&logoColor=white)&nbsp;
 ![Security](https://img.shields.io/badge/Security-IAM%20%2F%20IAP-4285F4?logo=googlecloud&logoColor=white)
 
-![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-Prompting%20%7C%20RAG%20%7C%20Tool--Calling-00B894)
-![LLMOps](https://img.shields.io/badge/LLMOps-Evals%20%7C%20Regression%20%7C%20Monitoring-111827)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000)
+![LLM_Engineering](https://img.shields.io/badge/LLM_Engineering-Prompting%20%7C%20RAG%20%7C%20Tool--Calling-00B894)&nbsp;
+![LLMOps](https://img.shields.io/badge/LLMOps-Evals%20%7C%20Regression%20%7C%20Monitoring-111827)&nbsp;
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000)&nbsp;
 ![R](https://img.shields.io/badge/R-Analytics-276DC3?logo=r&logoColor=white)
 
 > **Model-agnostic:** I choose models via evals (latency, cost, accuracy, safety) and keep prompts portable.
-![GPT](https://img.shields.io/badge/Cloud-GPT--4o%20%2F%204.1-000000)
-![Claude](https://img.shields.io/badge/Cloud-Claude%203.5-000000)
-![Gemini](https://img.shields.io/badge/Cloud-Gemini%201.5-000000)
-![Llama](https://img.shields.io/badge/Local-Llama%203.x-000000)
-![Mistral](https://img.shields.io/badge/Local-Mistral-000000)
+
+![GPT](https://img.shields.io/badge/Cloud-GPT--4o%20%2F%204.1-000000)&nbsp;
+![Claude](https://img.shields.io/badge/Cloud-Claude%203.5-000000)&nbsp;
+![Gemini](https://img.shields.io/badge/Cloud-Gemini%201.5-000000)&nbsp;
+![Llama](https://img.shields.io/badge/Local-Llama%203.x-000000)&nbsp;
+![Mistral](https://img.shields.io/badge/Local-Mistral-000000)&nbsp;
 ![Qwen](https://img.shields.io/badge/Local-Qwen2.5-000000)
 
 ---
