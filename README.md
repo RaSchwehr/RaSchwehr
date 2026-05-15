@@ -1,89 +1,108 @@
+<div align="center">
+
 # Ralph Schwehr
-### Tech Stack & Skills
 
-### Build AI that ships 🚀
+**Interim CDO · Chief AI & Data Officer · Board Advisor**
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python&logoColor=white)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?logo=fastapi&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)&nbsp;
-![Git%2FGitHub](https://img.shields.io/badge/Git%2FGitHub-Delivery-181717?logo=github&logoColor=white)&nbsp;
-![CI%2FCD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)&nbsp;
-![GCP](https://img.shields.io/badge/GCP-Cloud_Run%20%7C%20Cloud_SQL-4285F4?logo=googlecloud&logoColor=white)&nbsp;
-![Security](https://img.shields.io/badge/Security-IAM%20%2F%20IAP-4285F4?logo=googlecloud&logoColor=white)
+*Building AI systems that ship — and measurable digital businesses around them.*
 
-![LLM_Engineering](https://img.shields.io/badge/LLM_Engineering-Prompting%20%7C%20RAG%20%7C%20Tool--Calling-00B894)&nbsp;
-![LLMOps](https://img.shields.io/badge/LLMOps-Evals%20%7C%20Regression%20%7C%20Monitoring-111827)&nbsp;
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000)&nbsp;
-![R](https://img.shields.io/badge/R-Analytics-276DC3?logo=r&logoColor=white)
+[![Website](https://img.shields.io/badge/schwehr.ai-CC785C?style=for-the-badge&logoColor=white)](https://schwehr.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralph-schwehr/)
+[![OAKAI](https://img.shields.io/badge/OAKAI-Voice_of_AI-1A1915?style=for-the-badge)](https://www.oakai.de/presse)
+[![Email](https://img.shields.io/badge/ralph%40schwehr.ai-4A4742?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ralph@schwehr.ai)
 
-> **Model-agnostic:** I choose models via evals (latency, cost, accuracy, safety) and keep prompts portable.
-
-![GPT](https://img.shields.io/badge/Cloud-GPT--4o%20%2F%204.1-000000)&nbsp;
-![Claude](https://img.shields.io/badge/Cloud-Claude%203.5-000000)&nbsp;
-![Gemini](https://img.shields.io/badge/Cloud-Gemini%201.5-000000)&nbsp;
-![Llama](https://img.shields.io/badge/Local-Llama%203.x-000000)&nbsp;
-![Mistral](https://img.shields.io/badge/Local-Mistral-000000)&nbsp;
-![Qwen](https://img.shields.io/badge/Local-Qwen2.5-000000)
+</div>
 
 ---
 
+## What I do
 
-Chief AI Officer
-Engineering decision intelligence systems for organizations adopting AI.
-Blending statistical modeling, LLM evaluation, and cloud-native SaaS architecture to build reliable, measurable AI infrastructure.
-Scalable systems. Controlled risk. Measurable outcomes.
+I take responsibility at the intersection of **digital business, eCommerce, growth and AI/Data** — as Interim Executive, Fractional Leader, or via a 10-day Value Sprint. Measurable EBIT impact. Governance that enables innovation rather than blocking it.
 
----
+**Recent track record:** Platform ownership >€1.3B revenue p.a. · Cloud Marketplace +185% · PE turnaround +130% revenue, +200% EBT · Carve-out/PMI rollout in 82 countries, OPEX -62%.
 
-## What I build
-
-I design and implement AI-driven SaaS systems with a focus on:
-
-- Statistical modeling for decision systems
-- Applied data science for organizational diagnostics
-- LLM-based evaluation and structured reasoning systems
-- Multi-tenant SaaS architecture
-- Production-grade cloud deployment (GCP)
+→ **[schwehr.ai](https://schwehr.ai)** for the full story.
 
 ---
 
-## AI Systems & LLM Engineering
+## AI Engineering & LLMOps
 
-- Retrieval-Augmented Generation (RAG)
-- Structured output enforcement & validation layers
-- Prompt robustness testing
-- Multi-model orchestration strategies
-- Evaluation pipelines for LLM consistency & bias detection
-- Governance-aware AI deployment
+![LLMs](https://img.shields.io/badge/LLMs-Claude_·_GPT_·_Gemini_·_Llama_·_Mistral-CC785C?style=flat-square)
+![Prompting](https://img.shields.io/badge/Prompt_Engineering-Few--Shot_·_CoT_·_System_Design-4A4742?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Domain_Knowledge_·_Sources_·_EU--Sovereign-4A4742?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-Multi--Agent_·_Tool--Use_·_Orchestration-4A4742?style=flat-square)
+![LLMOps](https://img.shields.io/badge/LLMOps-Evals_·_Monitoring_·_Cost_·_Latency-4A4742?style=flat-square)
+![Governance](https://img.shields.io/badge/AI_Governance-Risk_·_Compliance_·_EU_AI_Act-4A4742?style=flat-square)
+
+> **Model-agnostic by default.** Selection follows evals (latency, cost, accuracy, safety), not vendor allegiance. Prompts stay portable across providers.
+
+## Data Science & ML
+
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-Statistics_·_Causal-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-BigQuery_·_Postgres_·_Snowflake-336791?style=flat-square&logo=postgresql&logoColor=white)
+![ML](https://img.shields.io/badge/ML-scikit--learn_·_TensorFlow_·_PyTorch-FF6F00?style=flat-square)
+![Causal](https://img.shields.io/badge/Causal_Inference-DAGs_·_A%2FB_·_Uplift-4A4742?style=flat-square)
+
+## Platform & Cloud
+
+![GCP](https://img.shields.io/badge/GCP-BigQuery_·_Cloud_Run_·_Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AKS_·_Synapse_·_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Edge_·_Next.js-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-Neon_·_Cloud_SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Production-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+## DevEx & Delivery
+
+![GitHub](https://img.shields.io/badge/GitHub-Actions_·_PR_Flow-181717?style=flat-square&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Vercel_·_GH_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Security](https://img.shields.io/badge/Security-IAM_·_IAP_·_Zero_Trust-4285F4?style=flat-square)
+![Observability](https://img.shields.io/badge/Observability-Logs_·_Traces_·_SLOs-4A4742?style=flat-square)
+
+## Executive & Leadership
+
+![P&L](https://img.shields.io/badge/P%26L-Revenue_·_Margin_·_OPEX-1A1915?style=flat-square)
+![Op Model](https://img.shields.io/badge/Operating_Model-Org_·_KPI_·_Delivery-1A1915?style=flat-square)
+![Change](https://img.shields.io/badge/Change-Stakeholders_·_C--Level_·_Board-1A1915?style=flat-square)
+![Turnaround](https://img.shields.io/badge/Turnaround-PMI_·_Carve--out_·_Crisis-1A1915?style=flat-square)
 
 ---
 
-## Stack
+## Selected projects
 
-**Modeling & Data**
-- R (Advanced – statistical modeling & inference)
-- Python (Advanced – data pipelines & backend systems)
-- Applied statistics & evaluation design
+### [schwehr.ai](https://schwehr.ai)
+Personal executive site. Editorial-warmth design, EU-sovereign stack.
+**Stack:** Next.js 15 (App Router), Tailwind v4, TypeScript, Neon Postgres (EU), Resend (EU), Vercel Pro · Magic-link CV download · DSGVO-compliant, no trackers · Fully self-hosted fonts · Animated capability map (SVG, 140-particle swarm with neural connections).
 
-**Backend**
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
+### [OAKAI — Voice of AI](https://www.oakai.de/presse)
+Weekly AI newsletter and strategic briefings on enterprise AI, defence AI, EU survivability, public-sector AI deployment.
 
-**Frontend**
-- Streamlit
-- Data visualization systems
+---
 
-**Infrastructure**
-- Docker
-- GitHub Actions
-- Google Cloud Run
-- Cloud SQL
+## How I work
 
-**AI Systems**
-- LLM integration
-- Prompt evaluation frameworks
-- Structured reasoning workflows
+I start lean with a clearly scoped engagement — often a **10-day Value Sprint** covering readiness, top use-cases, business case, 90-day plan, and a governance minimum. If it fits, I scale into Interim or Fractional ownership from there.
+
+Hands-on with teams, KPI-driven, management-ready decision documents that actually trigger execution.
+
+---
+
+## Philosophy
+
+> AI systems must be **measurable**, **governable**, and **reversible**.
+> 
+> Stability and future-readiness are not opposites — they're the same discipline.
+
+---
+
+<div align="center">
+
+**📍 Munich · DACH region · Remote-friendly**
+
+[schwehr.ai](https://schwehr.ai) · [ralph@schwehr.ai](mailto:ralph@schwehr.ai) · [LinkedIn](https://www.linkedin.com/in/ralph-schwehr/)
+
 
 ---
 
@@ -94,3 +113,4 @@ AI systems must be measurable.
 Statistical clarity before automation.  
 Evaluation before scaling.  
 Architecture before growth.
+</div>
