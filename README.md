@@ -12,6 +12,8 @@
 ![Git%2FGitHub](https://img.shields.io/badge/Git%2FGitHub-Delivery-181717?logo=github&logoColor=white)&nbsp;
 ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-Cloud_Run%20%7C%20Cloud_SQL-4285F4?logo=googlecloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-Cloud_Infrastructure-FF9900?logo=amazonwebservices&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-Cloud_Infrastructure-0078D4)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firestore-Serverless_Data-FFCA28?logo=firebase&logoColor=black)&nbsp;
 ![Security](https://img.shields.io/badge/Security-IAM%20%2F%20IAP-4285F4?logo=googlecloud&logoColor=white)
 
@@ -24,13 +26,13 @@
 > **Model-agnostic:** I choose models via evals (latency, cost, accuracy, safety) and keep prompts portable.
 > And when no model fits: I fine-tune and ship my own.
 
-![GPT](https://img.shields.io/badge/Cloud-GPT--5%20%2F%204.1-000000)&nbsp;
-![Claude](https://img.shields.io/badge/Cloud-Claude%204.x-000000)&nbsp;
-![Gemini](https://img.shields.io/badge/Cloud-Gemini%202.5-000000)&nbsp;
-![Llama](https://img.shields.io/badge/Local-Llama%203.x-000000)&nbsp;
+![GPT](https://img.shields.io/badge/Cloud-GPT--5.5-000000)&nbsp;
+![Claude](https://img.shields.io/badge/Cloud-Claude_Opus_4.8%20%7C%20Fable_5-000000)&nbsp;
+![Gemini](https://img.shields.io/badge/Cloud-Gemini_3.1_Pro-000000)&nbsp;
+![Llama](https://img.shields.io/badge/Local-Llama_4-000000)&nbsp;
 ![Mistral](https://img.shields.io/badge/Local-Mistral-000000)&nbsp;
-![Qwen](https://img.shields.io/badge/Local-Qwen2.5-000000)&nbsp;
-![GLM](https://img.shields.io/badge/Local-GLM--4.x-000000)&nbsp;
+![Qwen](https://img.shields.io/badge/Local-Qwen3-000000)&nbsp;
+![GLM](https://img.shields.io/badge/Local-GLM--5-000000)&nbsp;
 ![oakai](https://img.shields.io/badge/Own-oakai%3Aalpha10%20%7C%20alpha11-CF6A3A)
 
 ---
@@ -103,6 +105,7 @@ I design and implement AI-driven SaaS systems with a focus on:
 - Data visualization systems
 
 **Infrastructure**
+- Multi-cloud: GCP (primary) · AWS · Azure
 - Docker
 - GitHub Actions
 - Google Cloud Run
@@ -133,13 +136,21 @@ Ship, measure, iterate.
 
 <div align="center">
 
-![Ralph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaSchwehr&show_icons=true&theme=default&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaSchwehr&layout=compact&hide_border=true&langs_count=8)
+![Contribution Graph](https://ghchart.rshah.org/CF6A3A/RaSchwehr)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RaSchwehr&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=RaSchwehr&hide_border=true&ring=CF6A3A&fire=CF6A3A&currStreakLabel=CF6A3A)
 
 </div>
+
+<!--
+Optional: Volle Stats-Cards (Stats + Top Languages).
+Die oeffentliche Instanz github-readme-stats.vercel.app ist oft rate-limited (broken images).
+Loesung: Selbst deployen unter https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+(Vercel-Account + GitHub PAT als Env-Variable, ~5 Minuten). Danach hier die eigene Domain eintragen:
+
+![Ralph's GitHub Stats](https://DEINE-INSTANZ.vercel.app/api?username=RaSchwehr&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://DEINE-INSTANZ.vercel.app/api/top-langs/?username=RaSchwehr&layout=compact&hide_border=true&langs_count=8)
+-->
 
 ---
 
