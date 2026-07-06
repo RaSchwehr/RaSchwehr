@@ -138,7 +138,7 @@ Ship, measure, iterate.
 
 ![Contribution Graph](https://ghchart.rshah.org/CF6A3A/RaSchwehr)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RaSchwehr&hide_border=true&ring=CF6A3A&fire=CF6A3A&currStreakLabel=CF6A3A)
+![GitHub Streak](https://streak-stats.demolab.com?user=RaSchwehr&hide_border=true)
 
 </div>
 
